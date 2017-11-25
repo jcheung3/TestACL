@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TestACL">95b9dd064faa430035687bb28110c727</application>
+        <filter/>
+        <name>BasicTasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_162936_testacl.testacltable_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-22 04:35:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22c88f464f6e430035687bb28110c73c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BasicTasks</sys_name>
+        <sys_package display_value="TestACL" source="x_162936_testacl">105995024faa430035687bb28110c70e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestACL">105995024faa430035687bb28110c70e</sys_scope>
+        <sys_update_name>sys_ui_module_22c88f464f6e430035687bb28110c73c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-22 04:35:56</sys_updated_on>
+        <table>x_162936_testacl_basictask</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

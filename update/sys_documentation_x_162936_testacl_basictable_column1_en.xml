@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="column1" label="Column1" language="en" table="x_162936_testacl_basictable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>column1</element>
+            <help/>
+            <hint/>
+            <label>Column1</label>
+            <language>en</language>
+            <name>x_162936_testacl_basictable</name>
+            <plural>Column1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-21 22:40:51</sys_created_on>
+            <sys_id>1d87bd824fea430035687bb28110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Column1</sys_name>
+            <sys_package display_value="TestACL" source="x_162936_testacl">105995024faa430035687bb28110c70e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestACL">105995024faa430035687bb28110c70e</sys_scope>
+            <sys_update_name>sys_documentation_x_162936_testacl_basictable_column1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-21 22:40:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

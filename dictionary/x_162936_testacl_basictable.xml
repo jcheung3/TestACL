@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="BasicTable" max_length="40" name="x_162936_testacl_basictable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Column1" max_length="40" name="column1" type="string"/>
+        <element choice="1" label="MyState" max_length="40" name="mystate" type="choice">
+            <choice>
+                <element label="closed" value="closed"/>
+                <element label="open" value="open"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

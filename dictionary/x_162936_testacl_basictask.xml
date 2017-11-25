@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="BasicTask" max_length="40" name="x_162936_testacl_basictask" sizeclass="4" type="collection"/>
+</database>
